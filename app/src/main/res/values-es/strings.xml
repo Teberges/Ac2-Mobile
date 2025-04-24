@@ -1,0 +1,8 @@
+
+<resources>
+   <string name="app_name">Control de Medicamentos</string>
+   <string name="salvar">Guardar</string>
+   <string name="nome">Nombre del Medicamento</string>
+   <string name="descricao">Descripción</string>
+    <string name="horario">Horario</string>
+</resources>
